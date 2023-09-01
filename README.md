@@ -1,1 +1,1 @@
-# icp-3
+name:RAJYALAKSHMI GOTTIPATI student id: 700745186 video link:https://drive.google.com/file/d/1vs83QomMrdi4jcFutWsK-wIxdGUhRy0w/view?usp=drive_link Document- Neural Network & Deep learning - ICP-3.docx Video File-NNDL-Assignment3.mp4 Code- nn-assignment3.py
